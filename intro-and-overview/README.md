@@ -165,10 +165,18 @@ Does anyone notice any problems or flaws with this cycle?
 ---
 
 ## Homework
-1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8)  and read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (watch the video, then read the intro and overview)
-2. Get access to a linux system (WSL Ubunut, bash, AWS linux).
-3. Be familiar with using `md5sum` and `sha256sum` (be able to hash a file or string)
-4. Read this: https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Attacking-Unsalted-Passwords
+1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8) and read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (watch the video, then read the intro and overview)
+
+2. Install [mobaxterm](https://download.mobatek.net/2122021051924233/MobaXterm_Installer_v21.2.zip)
+
+3. Gain access to AWS Educate.  Emails went out today.
+
+4. Install [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) and Ubuntu in windows (or gain access to bash)
+
+5. Be familiar with using `md5sum` and `sha256sum` (be able to hash a file or string)  Hint:  `sha256sum -t "test"` should be the same as `sha256sum filename` if the contents of the filename is just the string text
+
+6. Read this: https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Attacking-Unsalted-Passwords
 
 
+Discuss in Discord if you hit any walls!
 
