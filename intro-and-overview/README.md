@@ -15,6 +15,8 @@ Truth needs a soldier
 * Define Risk
 * Define Vulnerability
 * Define Threat
+* The Risk Management cycle
+* Homework
 
 ---
 
@@ -111,25 +113,29 @@ Common Threats and Threat Actors:
 * Insider threats (trusted person with intent to do harm)
 * ID 10 T errors (trusted person without intent to do harm)
 * Outsider Threats
- * Hackers
- * Crackers
- * Script Kiddie
- * Cyber Criminals
- * Cyber Terrorists
- * Hacktivists
- * State-Sponsored attackers
- * Brokers
- * Advanced Persistent Threats
+  * Hackers
+  * Crackers
+  * Script Kiddie
+  * Cyber Criminals
+  * Cyber Terrorists
+  * Hacktivists
+  * State-Sponsored attackers
+  * Brokers
+  * Advanced Persistent Threats
 
 USA - 71
+
 EU/ME - 177
+
 APAC - 204
+
 *As reported by FireEye, 2018*
 
 ---
 
 ## So what do we do?
 
+### The Risk Management cycle:
 Information gathering:
 * Identify data and assets
 * Identify threats
@@ -157,7 +163,11 @@ Does anyone notice any problems or flaws with this cycle?
 
 ---
 
-[Cyber Ethics](https://en.wikipedia.org/wiki/Cyberethics)
-Privacy: secrecy, anonymity, and solitude. 
+## Homework
+1. Read and [watch](https://www.youtube.com/watch?v=2BldESGZKB8) what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (watch the video, then read the intro and overview)
+2. Get access to a linux system (WSL Ubunut, bash, AWS linux).
+3. Be familiar with using `md5sum` and `sha256sum` (be able to hash a file or string)
+4. Read this: https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Attacking-Unsalted-Passwords
+
 
 
