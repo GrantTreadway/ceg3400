@@ -1,57 +1,83 @@
 # CEG 3400 Introduction to Cyber Security
+### Table of contents
+* [Instructor Info](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#instructor-info)
+* [Course Info](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-information)
+* [Student Learnin Outcomes](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#student-learning-outcomes)
+* [Method of Instruction](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#method-of-instruction)
+* [Course Communication and Administration](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-communication-and-administration)
+* [Course Policies](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-policies)
+* [Midterm Exam](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#midterm-exam)
+* [Final Exam](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#final-exam)
+* [Topics Covered](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#topics-covered)
 
-### Instructor
+### Instructor Info
 * Matthew Kijowski 
 * matthew.kijowski@wright.edu & matthewkijowski@gmail.com
 * `@Matt Kijowski` on Discord
-
-### Office 
 * 447 Russ
 * Office hours: By appointment.  Will be in my office T/Th 2pm-3pm
 * Will be available in Discord and Webex for remote meetings
 
+---
+
 ### Course Information
+* [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meet time: Tuesdays & Thursdays, 11:00 AM - 12:20 PM
-* Meeting location: 355 Russ
+* Meeting time/place: Tuesdays & Thursdays, 11:00 AM - 12:20 PM, 355 Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
-* Prerequisites: minimum D in CEG 2350: Operating Systems
+* Prerequisites: minimum D in [CEG 2350: Operating Systems](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=95960)
 * Resource Requirements:
   * Personal Computer (Required for remote students): Every student attending remotely is 
     required to have their own computer for this course (desktop or laptop).
   * Textbook (Required) : Security+ Guide to Network Security Fundamentals, 6th Edition, 
     Mark Ciampa, Cengage 2018
 
+---
+
 ### Student Learning Outcomes
 After successful completion of this course, the student will be able to:
+
 1. Demonstrate understanding of modern cyberspace that features a collection of
    heterogeneous, interactive components.
+
 2. Demonstrate understanding of basic cryptographic concepts, their practical impact, and the
    corresponding popular tools/applications.
+
 3. Demonstrate understanding of hardware security, various types of malware and their
    implications, basic principles of anti-virus software and its limitation, and system
    architectures and their security implications.
+
 4. Demonstrate understanding of various critical infrastructures and how the integration of
    interacting components introduces security challenges.
+
 5. Demonstrate understanding of security design principles and their application in designing
    secure, complex systems.
+
 6. Demonstrate understanding of human factors in cyber security.
+
 7. Demonstrate understanding of the need to address cybersecurity from a risk management
    perspective and the challenges of trying to do this.
+
 8. Demonstrate ability to conduct good research and document the results in well written
    papers and well delivered oral presentations.
 
+---
+
 ### Method of Instruction
 Instruction will be available in two modes:
+
 * Synchronous online: students will log into Pilot and attend class periods virtually via webex 
   at the assigned meet time.  Webex sessions will be posted in pilot.wright.edu under course content for this course
+
 * Syncronous in person: set meet time in 355 Russ
 
 355 Russ only seats 36 students.  I will poll students to see who intends on attending in person versus online via webex.  
 If more students would prefer in person attendance a schedule shall be determined by the instructor of who can attend
 each day.
+
+---
 
 ### Course Communication and Administration
 * [CS/CEG Discord Server](https://discord.gg/pMUMzTt)
@@ -65,6 +91,8 @@ each day.
   * I will occasionally send out email communication to one or more of you for class purposes
 * Github
   * May be used for assignments.
+
+---
 
 ### Course Policies
 * All assignments will be submitted before the due date.  Late work will not be accepted.
@@ -87,6 +115,8 @@ each day.
     students will always recieve the highest grade possible (no one will recieve a lower
     grade because of a change to the composition)
 
+---
+
 ### Midterm Exam
 * Date: Thursday, October 14, 2021 (during class)
 
@@ -95,7 +125,10 @@ each day.
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
 
-### Topics covered (not necessarily in order)
+---
+
+### Topics covered 
+These topics will not necessarily be covered in order.
 * Foundation of Cyber Security
 * Malware and Social Engineering
 * Crypto Concepts
