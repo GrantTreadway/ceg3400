@@ -122,6 +122,12 @@ each day.
  the assignment and the offending student(s) conduct being sent to pertinent Student Affairs 
  committee.
 
+* Sick policy
+
+ Students are encouraged to stay home if they are sick.  All
+ course content will be available online.  Please notify the instructor via email if you
+ will be unable to participate on a given day **prior to the beginning of class**.  
+
 ---
 
 ### Midterm Exam
