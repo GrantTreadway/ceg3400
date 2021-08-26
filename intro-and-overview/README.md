@@ -1,6 +1,9 @@
 # Lecture 1 - A Clear and Present Danger
+
 Truth needs a soldier
+
 ![truth-is-out-there](https://raw.githubusercontent.com/mkijowski/ceg3400/master/intro-and-overview/imgs/the-truth-is-out-there-x-files.jpg)
+
 ---
 
 ## Todays Objectives
@@ -33,15 +36,18 @@ Sure did take a while to bring up the human beings in all this...
 ## What is the CIA triad [Information Security](https://en.wikipedia.org/wiki/Information_security) model?
 
 ![CIA triad](https://raw.githubusercontent.com/mkijowski/ceg3400/master/intro-and-overview/imgs/CIA-Triad-confidentiality-integrity-availability.png)
+
 confidentiality, integrity, availabilty
 
 **Confidentiality**: ensure only authorized access to needed data.  Prevent unauthorized access AND access to unnecessary data.
+
 Ways to protect confidentiality: 
 * encryption
 * access control/file permissions
 * authentication
 
 **Integrity**: ensure the data is correct, authentic and reliable (trust).
+
 Ways to protect integrity:
 * hashing
 * backups
@@ -50,6 +56,8 @@ Ways to protect integrity:
 * data correcting code
 
 **Availability**: ensure the data is available to authorized users
+
+Ways to protect availability:
 * redundancy
 * physical protections
 * backups
