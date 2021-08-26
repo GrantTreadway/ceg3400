@@ -136,35 +136,36 @@ APAC - 204
 ## So what do we do?
 
 ### The Risk Management cycle:
-Information gathering:
-* Identify data and assets
-* Identify threats
-* Identify vulnerabilities
-* Identify impacts
 
-Evaluate Risk
+1. Information gathering:
+  * Identify data and assets
+  * Identify threats
+  * Identify vulnerabilities
+  * Identify impacts
 
-Decide:
-* avoid
-* mitigate
-* share
-* accept
+2. Evaluate Risk
+
+3. Decide:
+  * avoid
+  * mitigate
+  * share
+  * accept
 
 Repeat this cycle, forever...
 
 Does anyone notice any problems or flaws with this cycle?
 
-7.9 Billion people
-21.5 billion interconnected devices
+* 7.9 Billion people
+* 21.5 billion interconnected devices
+* ![cve-per-month](https://raw.githubusercontent.com/mkijowski/ceg3400/master/intro-and-overview/imgs/cves-per-year-month.png)
 
 ![so-are-lies](https://raw.githubusercontent.com/mkijowski/ceg3400/master/intro-and-overview/imgs/Truth-is-out-there-but-so-are-lies.jpg)
 
-![cve-per-month](https://raw.githubusercontent.com/mkijowski/ceg3400/master/intro-and-overview/imgs/cves-per-year-month.png)
 
 ---
 
 ## Homework
-1. Read and [watch](https://www.youtube.com/watch?v=2BldESGZKB8) what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (watch the video, then read the intro and overview)
+1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8)  and read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (watch the video, then read the intro and overview)
 2. Get access to a linux system (WSL Ubunut, bash, AWS linux).
 3. Be familiar with using `md5sum` and `sha256sum` (be able to hash a file or string)
 4. Read this: https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Attacking-Unsalted-Passwords
