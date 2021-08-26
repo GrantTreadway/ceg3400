@@ -1,6 +1,6 @@
 # Lecture 1 - A Clear and Present Danger
 Truth needs a soldier
-
+![truth-is-out-there](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/the-truth-is-out-there-x-files.jpg)
 ---
 
 ## Todays Objectives
@@ -32,7 +32,7 @@ Sure did take a while to bring up the human beings in all this...
 
 ## What is the CIA triad [Information Security](https://en.wikipedia.org/wiki/Information_security) model?
 
-![CIA triad]()
+![CIA triad](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/CIA-Triad-confidentiality-integrity-availability.png)
 confidentiality, integrity, availabilty
 
 **Confidentiality**: ensure only authorized access to needed data.  Prevent unauthorized access AND access to unnecessary data.
@@ -66,12 +66,14 @@ integrity, and availability of all data in the cyber space domain.
 
 Easy peasy right?
 
+![so-are-lies](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/Truth-is-out-there-but-so-are-lies.jpg)
+
 ---
 
 ## What is Risk
 Not the board game...
 
-![Cyber Risk]()
+![Cyber Risk](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/risk.jpg)
 
 The intersection of a vulnerability, a threat, and an opportunity (or availability).
 
@@ -90,7 +92,7 @@ A weakness that can be exploited by a threat actor.
 ## What is a threat 
 Who are we defending from?
 
-![mgs-alert]()
+![mgs-alert](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/threat.jpeg)
 
 Threat: a person or thing likely to cause harm
 
@@ -142,7 +144,7 @@ Does anyone notice any problems or flaws with this cycle?
 7.9 Billion people
 21.5 billion interconnected devices
 
-![cve-per-month]()
+![cve-per-month](https://github.com/mkijowski/ceg3400/tree/master/intro-and-overview/imgs/cves-per-year-month.png)
 ---
 
 [Cyber Ethics](https://en.wikipedia.org/wiki/Cyberethics)
