@@ -115,6 +115,13 @@ each day.
     students will always recieve the highest grade possible (no one will recieve a lower
     grade because of a change to the composition)
 
+* Students are expected to behave by the Wright State University [Student Code of Conduct](https://policy.wright.edu/policy/3720-code-student-conduct)
+
+ Academic integrity violations will not be tolerated.  Student must submit their own work and 
+ cite all sources of inspiration in a clear manner. Failure to do so will result in a 0 for
+ the assignment and the offending student(s) conduct being sent to pertinent Student Affairs 
+ committee.
+
 ---
 
 ### Midterm Exam
@@ -150,5 +157,4 @@ These topics will not necessarily be covered in order.
 * Risk Profile and Cyber Hygiene
 * Vulnerability Taxonomies and Assessment
 * Cyber Law & Economics
-
 
